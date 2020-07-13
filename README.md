@@ -2,7 +2,7 @@
 
 ## Introduction
 
-   A simple Project to identify the Clean and Messy Room. ''Amazing right!!'' This Project is the Combination of Deep Learning and Django.I have used VGG19 CNN 
+   A simple Website to identify the Clean and Messy Room. **Amazing right!!** This Project is the Combination of Deep Learning and Django.I have used VGG19 CNN 
 architecture and Keras framework to classify the Clean and Messy Room.The Model is trained with input shape (299,299,3).
 
 ## The DataSet :
