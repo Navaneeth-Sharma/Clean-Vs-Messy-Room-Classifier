@@ -2,8 +2,8 @@
 
 ## Introduction
 
-   A simple Project to identify the Clean and Messy Room.This Project is the Combination of Deep Learning and Django.I have used VGG19 CNN 
-architecture and Keras framework to classify the Clean and Messy Room.The Model is trained with input shape (299,299,3),
+   A simple Project to identify the Clean and Messy Room. ''Amazing right!!'' This Project is the Combination of Deep Learning and Django.I have used VGG19 CNN 
+architecture and Keras framework to classify the Clean and Messy Room.The Model is trained with input shape (299,299,3).
 
 ## The DataSet :
      
@@ -29,8 +29,10 @@ architecture and Keras framework to classify the Clean and Messy Room.The Model 
 
 ## The Weights :
      
-   The Weights of this couldn't be uploaded to the github bcz it exceeds 100Mb. If you want the wieghts you can find here ...
+   The Weights of this couldn't be uploaded to the github bcz it exceeds 100Mb. If you want the wieghts you can generate it from main_cmr.py python file it saves the weights as best_model.h5 and you can use it in the website
 
 ## Django :
 
-   I have used Django Framework (since it supports  Python programming). It has a basic form which takes the user input image(as a file input) of the room and gives the user an alert (a feature of bootstrap) based on how clean is the room. 
+   I have used Django Framework (since it supports  Python programming). It has a basic form which takes the user input image(as a file input) of the room and gives the user an alert (a feature of bootstrap) will display on the screen, based on how clean is the room. So why wait, check out the code above !!
+   
+###    Thank You ...
