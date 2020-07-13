@@ -1,4 +1,4 @@
-# Clean-and-Messy-Room-Classification
+# Clean-Vs-Messy-Room-Classification
 
 ## Introduction
 
