@@ -12,9 +12,7 @@ architecture and Keras framework to classify the Clean and Messy Room.The Model 
 ## The VGG19 Architecture :
 
 
-![alt text](https://www.researchgate.net/profile/Michael_Wurm/publication/331258180/figure/fig1/AS:728763826442243@1550762244632/Architecture-of-the-FCN-VGG19-adapted-from-Long-et-al-2015-which-learns-to-combine.png)
-    
-   The VGG19 Architecture uses stack of Convolutional Relu and Pooling layers.  
+![alt text](https://www.researchgate.net/profile/Michael_Wurm/publication/331258180/figure/fig1/AS:728763826442243@1550762244632/Architecture-of-the-FCN-VGG19-adapted-from-Long-et-al-2015-which-learns-to-combine.png)  
 
 
 
@@ -35,4 +33,10 @@ architecture and Keras framework to classify the Clean and Messy Room.The Model 
 
    I have used Django Framework (since it supports  Python programming). It has a basic form which takes the user input image(as a file input) of the room and gives the user an alert (a feature of bootstrap) will display on the screen, based on how clean is the room. So why wait, check out the code above !!
    
+## Screenshots of the Website :
+
+![alt text](https://github.com/Navaneeth-Sharma/Clean-Vs-Messy-Room-Classifier/blob/master/static/img/Screenshot%20from%202020-07-14%2000-45-50.png)
+![alt text](https://github.com/Navaneeth-Sharma/Clean-Vs-Messy-Room-Classifier/blob/master/static/img/Screenshot%20from%202020-07-14%2000-46-05.png)
+
+
 ###    Thank You ...
