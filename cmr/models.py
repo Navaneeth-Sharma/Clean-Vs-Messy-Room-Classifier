@@ -10,10 +10,4 @@ class Image(models.Model):
     def __str__(self):
         return self.name
 
-    # def image_tag(self):
-    #     from django.utils.html import escape
-    #     from django.conf import settings
-    #     return u'<img src="%s" />' % escape(settings.MEDIA_URL)
-    # image_tag.short_description = 'Image'
-    # image_tag.allow_tags = True
 
